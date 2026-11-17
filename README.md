@@ -139,40 +139,26 @@ Successfully verified that the original test data was recovered from the EBS sna
 ## 6. Project Screenshots
 
 ### Linux Web Server
-
-![Linux EC2](Linux/screenshots/Linux%20server.png)
-
-![Apache Web Server](Linux/screenshots/Web%20server.png)
-
-![Linux Website](Linux/screenshots/Website%20displaying%20AWS%20Task%204_Linux.png)
+![Linux EC2](Screenshots/Linux%20server.png)
+![Apache](Screenshots/Web%20server.png)
+![Linux Website](Screenshots/Website%20displaying%20AWS%20Task%204_Linux.png)
 
 ### Windows IIS Server
-
-![Windows EC2](Windows/screenshots/Windows%20Ec2.png)
-
-![IIS External Access](Windows/screenshots/IIS%20webserver%20in%20external%20IP.png)
-
-![IIS Welcome Page](Windows/screenshots/IIS%20welcome%20page.png)
+![Windows EC2](Screenshots/Windows%20Ec2.png)
+![IIS Welcome](Screenshots/IIS%20welcome%20page.png)
+![IIS External Access](Screenshots/IIS%20webserver%20in%20external%20IP.png)
 
 ### EBS Volume Management
-
-![EBS Volume](EBS/screenshots/EBS%20volume%281%29.png)
-
-![New EBS Volume](EBS/screenshots/New%20volume.png)
-
-![Volume Attachment](EBS/screenshots/Volume%20attachments%20to%20Ec2.png)
-
-![EBS Linux Mount](EBS/screenshots/Verify%20and%20mount%20EBS%20in%20Linux.png)
+![EBS Volume](Screenshots/EBS%20volume.png)
+![Restored Volume](Screenshots/New%20volume.png)
+![Volume Attachment](Screenshots/Volume%20attachments%20to%20Ec2.png)
+![EBS Mount](Screenshots/Verify%20and%20mount%20EBS%20in%20Linux.png)
 
 ### Snapshot Backup and Recovery
-
-![Snapshot Creation](Snapshot-Recovery/screenshots/Snapshot%20creation.png)
-
-![Snapshot Completed](Snapshot-Recovery/screenshots/Snapshot.png)
-
-![Volume Restored](Snapshot-Recovery/screenshots/Volime%20creation%20from%20snapshot.png)
-
-![Restored Volume Mount](Snapshot-Recovery/screenshots/Mount%20restored%20volume.png)
+![Snapshot Creation](Screenshots/Snapshot%20creation.png)
+![Completed Snapshot](Screenshots/Snapshot.png)
+![Restored Volume Creation](Screenshots/Volime%20creation%20from%20snapshot.png)
+![Recovery Verification](Screenshots/Mount%20restored%20volume.png)
 
 ## 7. Project Outcome
 
